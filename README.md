@@ -6,6 +6,7 @@
 
 ### 🧬 About Me
 Hi there! 👋 I am a mathematician focused on translating rigorous numerical analysis and fluid dynamics into high-performance code. My work spans using **Physics-Informed Neural Networks (PINNs)** to solve non-linear partial differential equations, writing low-level **Triton kernels** to optimize GPU execution grids, and modeling chaotic systems with generative architectures. I am driven by making complex mathematical frameworks computationally efficient and practical.
+
 ---
 
 ### 🛠️ Technical Toolkit
