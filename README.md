@@ -43,9 +43,6 @@ Hi there! 👋 I am a mathematician focused on translating rigorous numerical an
 * 📧 **Email:** [bismahzafar1002@gmail.com](mailto:bismahzafar1002@gmail.com)
 
 <p align="center">
-  <i>"Study math.
-
-Not for grades.Not for exams.
-
-But because math rewires how you think. It teaches you precision in chaos. How to see structure where others see noise. How to break a giant, messy problem into clean, solvable chunks."</i>
+  <i>"Study math. Not for grades. Not for exams. <br><br>
+  But because math rewires how you think. It teaches you precision in chaos. How to see structure where others see noise. How to break a giant, messy problem into clean, solvable chunks."</i>
 </p>
